@@ -1,0 +1,23 @@
+.good{
+	background-color: #0C0;
+}
+
+.moderate{
+	background-color: #FFFF00;
+}
+
+.usg{
+	background-color: #FF9900;
+}
+
+.unhealthy{
+	background-color: #FF0000;
+}
+
+.veryunhealthy{
+	background-color: #990066;
+}
+
+.hazardous{
+	background-color: #660000;
+}
